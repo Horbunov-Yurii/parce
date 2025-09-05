@@ -1,1 +1,1 @@
-{"mappings":"AAAA","sources":["src/style.css"],"sourcesContent":["h1 {\r\n  color: hotpink;\r\n  font-family: cursive;\r\n}"],"names":[],"version":3,"file":"parce.2cdaf7bc.css.map","sourceRoot":"/__parcel_source_root/"}
+{"mappings":"AAAA;;;;;AAKA;;;;;AAKA","sources":["src/style.css"],"sourcesContent":["h1 {\r\n  color: hotpink;\r\n  font-family: cursive;\r\n}\r\n\r\nh2{\r\n    font-size: 20px;\r\n    color: red;\r\n}\r\n\r\nh3{\r\n    color: blue;\r\n    font-size: 50px;\r\n}"],"names":[],"version":3,"file":"parce.2cdaf7bc.css.map","sourceRoot":"/__parcel_source_root/"}
